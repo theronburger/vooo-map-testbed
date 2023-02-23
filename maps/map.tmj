@@ -1831,17 +1831,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
-                 "height":292.167285151831,
-                 "id":12,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "visible":true,
-                 "width":500.716220904799,
-                 "x":1211.72235570165,
-                 "y":2364.57236619259
-                }, 
-                {
                  "class":"area",
                  "height":726,
                  "id":14,
@@ -1892,19 +1881,25 @@
                  "rotation":0,
                  "visible":true,
                  "width":688.969696969697,
-                 "x":1216.48484848485,
-                 "y":2766.42424242424
+                 "x":1221.81818181818,
+                 "y":2762.42424242424
                 }, 
                 {
                  "class":"area",
-                 "height":633.636363636364,
-                 "id":17,
-                 "name":"clock",
+                 "height":286.666666666667,
+                 "id":18,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/jfKfPfyJRdk"
+                        }],
                  "rotation":0,
                  "visible":true,
-                 "width":683.606060606061,
-                 "x":1217.27272727273,
-                 "y":2766.0303030303
+                 "width":498.666666666667,
+                 "x":1218.66666666667,
+                 "y":2372
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2245,7 +2240,7 @@
          "y":0
         }],
  "nextlayerid":61,
- "nextobjectid":18,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {

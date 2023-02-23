@@ -1837,6 +1837,11 @@
                  "name":"barAudio",
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":0.2

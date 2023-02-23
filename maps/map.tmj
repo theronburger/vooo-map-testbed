@@ -1885,13 +1885,13 @@
                  "y":2762.42424242424
                 }, 
                 {
-                 "class":"area",
+                 "class":"website",
                  "height":286.666666666667,
                  "id":18,
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"url",
                          "type":"string",
                          "value":"https:\/\/www.youtube.com\/embed\/jfKfPfyJRdk"
                         }],
